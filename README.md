@@ -1,6 +1,6 @@
 Olá, tudo bem? <br>
 Seja bem vindo ao meu perfil! <br>
-Eu sou Marcus Lamagna, iniciante em Desenvolvimento Web!
+Eu sou Marcus Lamagna, Desenvolvedor Web pleno!
 
 <div align="center">
   <a href="https://www.mlamagna.com.br/">
